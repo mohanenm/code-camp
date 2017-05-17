@@ -103,9 +103,10 @@
 ]
 
 $(document).ready(function(){
+ //clearly a illogical solution to copensate for my lack of understanding of another one 
   $('#online').click(function(){
    $(".two-info").hide();
-   $(".four-info").hide();
+   $(".four-info").hide();    
    $(".two-name").hide();
    $(".four-name").hide();
   })

@@ -1,0 +1,12 @@
+.container-fluid {
+	width: 50%;
+}
+body{
+
+	background-color: black;
+	font-family: 'Oswald', sans-serif
+}	
+	
+	.title{
+		color: white;
+	}

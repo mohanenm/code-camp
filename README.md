@@ -1,2 +1,2 @@
 # code-camp
-These are the advanced front-end dev projects for fcc
+These are the  front-end dev projects for fcc
